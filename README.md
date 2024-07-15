@@ -9,7 +9,7 @@ Currently, I'm a Relationship Banker at JP Morgan Chase assiting client with all
 
 Some facts about me:
 - 🔨 I am into fixing things, if it is broken, you can be I will try to fix it. Car, house, computer or fridge. I will try, even if i break it some more.
-- 🏎️ I love cars, I enjoy driving for long hours as well as working on them. I brings some serenity to me.
+- 🏎️ I love cars, I enjoy driving for long hours as well as working on them. It brings some sort of serenity to me.
 - ♟️⚽ I am in sports heavily! Soccer, boxing, basketball, biking, chess and recently pickleball.
 - My dream is to work for google or nasa as an analyst by 2025!
 
