@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaguila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/marco-aguila-a12904170)](http://www.linkedin.com/in/marco-aguila-a12904170)
 ![Tableau Badge](https://img.shields.io/badge/-marcoaguila-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-Efficient and motivated upcoming Data Analyst. Expierence with more than 4 projects in business analytics, data visualization, SQL and spreadsheets.
+Efficient and motivated upcoming Data Analyst. Expierence with more than 4 projects in business analytics, data visualization, SQL, Power BI, Tableau and spreadsheets.
 
 Currently, I'm a Relationship Banker at JP Morgan Chase assiting client with all their financial needs. With that being said, I am currently a student at TripleTen, enrolled in a Business Analytics bootcamp. A motivated student with current expierence in spreadsheets, SQL and Tableau, with these skills I aspire to be a Data Engineer.
 
