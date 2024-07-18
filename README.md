@@ -5,7 +5,7 @@
 
 Efficient and motivated upcoming Data Analyst. Expierence with more than 4 projects in business analytics, data visualization, SQL, Power BI, Tableau and spreadsheets.
 
-Currently, I'm a Relationship Banker at JP Morgan Chase assiting client with all their financial needs. With that being said, I am currently a student at TripleTen, enrolled in a Business Analytics bootcamp. A motivated student with current expierence in spreadsheets, SQL and Tableau, with these skills I aspire to be a Data Engineer.
+Currently, I'm a Relationship Banker at JP Morgan Chase assiting clients with all their financial needs. With that being said, I am currently a student at TripleTen, enrolled in a Business Analytics bootcamp. A motivated student with current expierence in spreadsheets, SQL. Power BI and Tableau, with these skills I aspire to be a Data Engineer.
 
 Some facts about me:
 - 🔨 I am into fixing things, if it is broken, you can bet I will try to fix it. Car, house, computer or fridge. I will try, even if I break it some more.
